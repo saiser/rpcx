@@ -808,6 +808,7 @@ rpcx的测试结果如上，下面事gRPC的测试结果。
 
 ![](_documents/images/rpcx-grpc-2.png)
 
+
 ## 参考文档
 1. [谁能用通俗的语言解释一下什么是RPC框架？](https://www.zhihu.com/question/25536695)
 2. [DUBBO](http://dubbo.io/)
