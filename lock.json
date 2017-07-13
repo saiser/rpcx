@@ -150,14 +150,6 @@
             ]
         },
         {
-            "name": "github.com/juju/ratelimit",
-            "branch": "master",
-            "revision": "77ed1c8a01217656d2080ad51981f6e99adaa177",
-            "packages": [
-                "."
-            ]
-        },
-        {
             "name": "github.com/kavu/go_reuseport",
             "branch": "master",
             "revision": "9c720277112a8e2011b06273f1fa2013e6329bee",

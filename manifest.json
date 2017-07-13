@@ -24,9 +24,6 @@
         "github.com/hashicorp/net-rpc-msgpackrpc": {
             "branch": "master"
         },
-        "github.com/juju/ratelimit": {
-            "branch": "master"
-        },
         "github.com/kavu/go_reuseport": {
             "branch": "master"
         },
